@@ -2,7 +2,7 @@
 
 Proyecto realizado sin dependencias externas, puro vanilla html, css y javascript.
 
-Se exploró las maneras de realizar un navbar responsivo. (Para esto se estudia como lo hace bootstrap y el siguiente video: https://www.youtube.com/watch?v=VRrEquQfh88&ab_channel=TahmidAhmed) También se diagrama con css grid para desktop, ya que me fue imposible "centrar un logo" en el navbar con flexbox. No se si realmente es muy complicado realizarlo con flexbox y es un caso perfecto para grid, o simplemente no conozco lo suficiente flexbox, aún.
+Se exploró las maneras de realizar un navbar responsivo. (Para esto se estudia como lo hace bootstrap y el siguiente video: https://www.youtube.com/watch?v=VRrEquQfh88&ab_channel=TahmidAhmed) También se diagrama con css grid para desktop, ya que me fue imposible "centrar un logo" en el navbar con flexbox. No se si realmente es muy complicado realizarlo con flexbox o efectivamente es un caso perfecto para grid.
 
 Se explora el uso de SVG. No logré animar el icono del menú con la X: Debo encontrar herramienta correcta y/o aprender a dibujar en SVG.
 Como referencia: https://css-tricks.com/animate-svg-path-changes-in-css/
